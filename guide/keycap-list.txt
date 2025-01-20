@@ -1,0 +1,12 @@
+XDA:
+    8 u1
+OEM R1:
+    12 u1
+OEM R2:
+    12 u1
+    4 u2
+OEM R3:
+    20 u1
+OEM R4:
+    4 u1
+    10 u1.25
