@@ -60,5 +60,5 @@ v1 stl files are archived in the things folder. The source code can be viewed on
 1. Wiring diagram -> guide (courtesy of [u/ausger23](https://www.reddit.com/user/ausger23/))
 2. My personal keycap list -> guide
 3. Microcontroller holder models -> things
-4. Wrist rest models -> things (courtesy of [daniel2887](https://www.thingiverse.com/thing:5255429))
+4. Wrist rest models -> things (courtesy of [daniel2887](https://www.thingiverse.com/thing:5155429))
 5. My QMK configurator export -> qmk
