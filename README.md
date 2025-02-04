@@ -49,7 +49,15 @@ v2 changes:
 v1 stl files are archived in the things folder. The source code can be viewed on the v1 git branch.
 
 ![image](https://imgur.com/IP2UYYA.jpg)
+
 ![image](https://imgur.com/LvZQUT4.jpg)
 ![image](https://imgur.com/0AYtoey.jpg)
 
 [other images](https://imgur.com/a/jBbUXNx)
+
+## Aditions by zlendo1
+
+1. Wiring diagram -> guide (courtesy of [u/ausger23](https://www.reddit.com/user/ausger23/))
+2. My personal keycap list -> guide
+3. Microcontroller holder models -> things
+4. My QMK configurator export -> qmk
