@@ -70,11 +70,11 @@
       "KC_BSPC",
       "KC_DEL",
       "KC_HOME",
-      "KC_PGDN",
+      "KC_PGUP",
       "KC_ENT",
       "KC_SPC",
       "KC_END",
-      "KC_RALT"
+      "KC_PGDN"
     ],
     [
       "KC_F1",
